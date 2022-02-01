@@ -1,1 +1,1 @@
-# Switch-in-c-programing
+# Switch-in-c-programing.c
